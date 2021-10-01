@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\clarusway-devops-8-21-main\\hands-on\\Kubernetes"
+		},
+		{
+			"path": "..\\..\\clarusway-devops-8-21-main\\hands-on\\Jenkins"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
